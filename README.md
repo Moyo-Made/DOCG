@@ -1,2 +1,2 @@
 # DOCG
-Documentation Generation Tool
+Documentation Generation Tool using the CLI
